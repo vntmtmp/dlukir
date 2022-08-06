@@ -1,0 +1,4 @@
+Normal
+Covid
+Lung Opacity
+Pneumonia
